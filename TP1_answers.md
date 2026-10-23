@@ -3,6 +3,15 @@
 **Name:** BASLIMANE HADJ AISSA  
 **GitHub username:** hbaslimane
 
+**Name:** MERSAD Smail
+**GitHub username:** falconMer
+
+**Name:** SEMAOUI Ahmed 
+**GitHub username:** SemaouiDev
+
+**Name:** TIRICHINE Aoumeur
+**GitHub username:** aoumeurtiri
+
 ## Exercise 1
 
 ### (a)
