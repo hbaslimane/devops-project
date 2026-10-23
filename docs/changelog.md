@@ -18,3 +18,4 @@ entry 17
 entry 18
 entry 19
 entry 20
+- Documentation update 1 for the Git bisect lab.
