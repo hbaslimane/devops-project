@@ -47,3 +47,4 @@ entry 20
 - Documentation update 27 for the Git bisect lab.
 - Documentation update 28 for the Git bisect lab.
 - Documentation update 29 for the Git bisect lab.
+- Documentation update 30 for the Git bisect lab.
