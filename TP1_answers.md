@@ -55,3 +55,15 @@ Each Git commit records a snapshot of the tracked files and links to its parent 
 
 ### (d)
 First, immediately revoke or rotate the exposed credential so it can no longer be used. Second, remove the secret from the repository and, if necessary, clean the Git history. Rewriting history alone is not enough because the exposed credential may already have been copied.
+
+
+## Exercise 5
+
+### (a)
+Branch protection is a security control because it requires changes to important branches to be submitted through pull requests and reviewed before merging. It also prevents force pushes and branch deletion, helping protect the integrity of the repository.
+
+### (b)
+It makes it harder for an attacker or compromised account to push malicious changes directly to `main` or overwrite trusted branch history using a force push.
+
+### (c)
+The lab requires a public repository because the branch protection and pull request features used in this exercise must be available under the GitHub plan being used.
