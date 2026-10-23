@@ -56,7 +56,7 @@ class SolveRecord:
 
 @dataclass(frozen=True)
 class Standing:
-    """One row of the scoreboard."""
+    """One ranked team row in the CTF scoreboard."""
 
     rank: int
     team: str
