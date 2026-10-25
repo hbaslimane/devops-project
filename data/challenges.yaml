@@ -24,7 +24,7 @@
 
 challenges:
   - slug: warmup-banner
-    title: Read the banner
+    title: Discover the Welcome Banner
     category: misc
     points: 100
     min_points: 100        # no decay: everybody should get this one

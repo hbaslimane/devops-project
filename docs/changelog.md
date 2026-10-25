@@ -55,3 +55,4 @@ The Git bisect lab demonstrates how to identify the commit that introduced a
 regression by repeatedly testing commits between a known good state and a
 known bad state. Record the test result at each step and verify the suspected
 commit before applying a fix.
+TP1 contribution by BASLIMANE HADJ AISSA.
